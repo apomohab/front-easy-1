@@ -1,0 +1,115 @@
+body{
+
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+
+.home-header{
+
+    background-color: #2196f3;
+    color: #fff;
+    background-image: url(../im);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center 100%;
+
+}
+
+.logo{
+
+    height:70px;
+    margin: 20px;
+   
+}
+
+.home-header .row{
+
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+.promo-text-box {
+
+    margin-top: 15%;
+    text-shadow: 5px 5px 5px #1065b6;
+
+}
+
+.promo-text-box h1 {
+
+    margin-bottom: 25px;
+
+}
+
+.play-btn {
+
+    width: 45px;
+    height: 45px;
+    margin: 25px;
+    color: #fff;
+}
+
+.lead-form{
+
+    width: 350px;
+    background-color: #fff;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+.title-box{
+
+    background-color: #1065b6;
+    height: 150px;
+    padding-top: 30px;
+    border-bottom-left-radius: 200px 50px;
+    border-bottom-right-radius: 200px 50px;
+
+}
+
+
+form label{
+
+    float: left;
+    margin-left: 37px;
+    color: #999;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+
+.input-box{
+
+    width: 280px;
+    height: 40px;
+    padding: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #999;
+}
+
+.input-box::placeholder{
+
+    color: #999;
+}
+
+.submit-btn{
+
+    width: 280px;
+    height: 60px;
+    color: #fff;
+    font-weight: 600px;
+    background-color: #1065b6;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: -30px;
+}
+
+footer{
+
+    text-align: center;
+    margin-top: 60px;
+    text-shadow: 5px 5px 5px #1065b6;
+}
